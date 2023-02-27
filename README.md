@@ -3,7 +3,7 @@
 ## Welcome to my Playground :rocket:
 
 -  :sunny: I’m a Software Engineer and a Cloud DevOps Engineer
--  :smiley: Super excited about ETL, Data Warehousing, Databases, Cloud, Automation...
+-  :smiley: Super excited about RESTful APIs Development, Databases, CICD Pipeline, Cloud, Automation...
 -  👯 Feel free to reach out to collaborate on any of the above and anything Cloud!
 -  📫 Always available to chat!
 
@@ -14,7 +14,7 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='32' title='Message Me!'>](https://www.linkedin.com/in/iamdanielchukwuma/)
 
 <!--
-**kolaoba/kolaoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chucksdaniel/chucksdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
