@@ -10,8 +10,8 @@
 ## Get in Touch
 
 [<img src='https://cdn-icons-png.flaticon.com/512/281/281786.png' width='32' title='Email Me!'>](iamdanielchukwuma@gmail.com)
-[<img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' width='32' title='DM Me!'>](https://twitter.com/iamchucksdaniel)
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='32' title='Message Me!'>](https://www.linkedin.com/in/iamdanielchukwuma/)
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' width='32' title='DM Me!'>](external.ink?to=https://twitter.com/iamchucksdaniel)
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='32' title='Message Me!'>](external.ink?to=https://www.linkedin.com/in/iamdanielchukwuma/)
 
 <!--
 **chucksdaniel/chucksdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
