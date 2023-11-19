@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Chukwuma Daniel, a software engineer (backend-focused). I have been developing applications and automating cloud infrastructure for around 4 years.
+
 ## Welcome to my Playground :rocket:
 
 -  :sunny: I’m a Software Engineer and a Cloud DevOps Engineer
